@@ -1,3 +1,6 @@
+## Resumo
+Este repositório contém a minha primeira aplicação utilizando Next.js e o framework Tailwind, desenvolvida durante o curso "Masterizando TailwindCSS" do programa RocketSeat Ignite.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
